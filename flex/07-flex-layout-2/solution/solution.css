@@ -23,8 +23,8 @@ body {
 }
 
 .card {
-  border: 1px solid #eee;
-  box-shadow: 2px 4px 16px rgba(0,0,0,.06);
+  border: 1px solid #e0e0e0;
+  box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   border-radius: 4px;
 }
 
